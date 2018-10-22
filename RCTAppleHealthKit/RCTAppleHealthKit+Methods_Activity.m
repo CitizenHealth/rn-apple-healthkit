@@ -56,7 +56,7 @@
 
     HKQuantityType *activeExerciseTime = [HKQuantityType quantityTypeForIdentifier:HKQuantityTypeIdentifierAppleExerciseTime];
 
-    [self fetchCumulativeSumStatisticsCollection:stepCountType
+    [self fetchCumulativeSumStatisticsCollection:activeExerciseTime
                                             unit:unit
                                        startDate:startDate
                                          endDate:endDate
