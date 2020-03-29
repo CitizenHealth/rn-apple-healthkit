@@ -78,6 +78,7 @@ Height Example Response
       * [setObserver](/docs/setObserver().md)
     * Read Methods
       * [getActiveEnergyBurned](/docs/getActiveEnergyBurned().md)
+      * [getAppleExerciseTime](/docs/getAppleExerciseTime().md)
       * [getBasalEnergyBurned](/docs/getBasalEnergyBurned().md)
       * [getBiologicalSex](/docs/getBiologicalSex().md)
       * [getBloodGlucoseSamples](/docs/getBloodGlucoseSamples().md)
